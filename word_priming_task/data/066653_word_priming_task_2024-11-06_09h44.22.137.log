@@ -1,0 +1,868 @@
+22.1907 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+22.1928 	INFO 	Loaded monitor calibration from ['2024_08_07 22:29']
+25.8008 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309D910>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309D8B0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309D6A0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000020C933837F0>, multiSample=False, name='window1', numSamples=2, pos=[240.0, 60.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+25.8010 	EXP 	window1: backgroundImage = ''
+25.8010 	EXP 	window1: backgroundFit = 'none'
+25.8016 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309DA30>
+25.8022 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309DA30>
+25.9721 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309DA30>
+25.9752 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309DA30>
+26.3383 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3474 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3525 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3574 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3654 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3706 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3735 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3765 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3788 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3808 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3826 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3844 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3861 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3880 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3899 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3914 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3953 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.3968 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.4063 	DEBUG 	Uploading Texture Font fontname to graphics card
+26.4086 	DEBUG 	Upload of Texture Font fontname complete
+26.4111 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309DA30>
+26.4113 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309DA30>
+26.4121 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309DA30>
+26.4129 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020C9309DA30>
+26.4185 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.4208 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.4230 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+26.4233 	DEBUG 	Uploading Texture Font fontname to graphics card
+26.4251 	DEBUG 	Upload of Texture Font fontname complete
+26.4948 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+26.4950 	EXP 	window1: recordFrameIntervals = False
+27.2213 	EXP 	window1: recordFrameIntervals = True
+27.4051 	EXP 	Screen (0) actual frame rate measured at 59.90Hz
+27.4052 	EXP 	window1: recordFrameIntervals = False
+27.4053 	EXP 	window1: mouseVisible = True
+27.4062 	EXP 	window1: mouseVisible = True
+27.4066 	EXP 	window1: mouseVisible = True
+27.4087 	EXP 	window1: mouseVisible = True
+27.4109 	EXP 	window1: mouseVisible = True
+27.4243 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4281 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4328 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4384 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4441 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4497 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4537 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4577 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4605 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4628 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.4632 	DEBUG 	Uploading Texture Font fontname to graphics card
+27.4654 	DEBUG 	Upload of Texture Font fontname complete
+27.4686 	EXP 	window1: mouseVisible = True
+27.4688 	EXP 	window1: mouseVisible = True
+27.4700 	EXP 	window1: mouseVisible = True
+27.4710 	EXP 	window1: mouseVisible = True
+28.1781 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+37.9565 	INFO 	keyboard.Keyboard is using iohub backend.
+37.9566 	EXP 	word_priming_task: status = STARTED
+37.9573 	EXP 	window1: mouseVisible = True
+38.0618 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.0760 	EXP 	window1: mouseVisible = True
+38.0819 	EXP 	window1: mouseVisible = True
+38.0822 	EXP 	window1: mouseVisible = True
+38.0836 	EXP 	window1: mouseVisible = True
+38.0850 	EXP 	window1: mouseVisible = True
+38.0932 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.0937 	DEBUG 	Uploading Texture Font fontname to graphics card
+38.0946 	DEBUG 	Upload of Texture Font fontname complete
+38.0981 	EXP 	window1: mouseVisible = True
+38.0984 	EXP 	window1: mouseVisible = True
+38.0996 	EXP 	window1: mouseVisible = True
+38.1008 	EXP 	window1: mouseVisible = True
+38.1093 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.1104 	DEBUG 	Uploading Texture Font fontname to graphics card
+38.1115 	DEBUG 	Upload of Texture Font fontname complete
+38.1142 	EXP 	window1: mouseVisible = True
+38.1145 	EXP 	window1: mouseVisible = True
+38.1156 	EXP 	window1: mouseVisible = True
+38.1171 	EXP 	window1: mouseVisible = True
+38.1243 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.1261 	DEBUG 	Uploading Texture Font fontname to graphics card
+38.1271 	DEBUG 	Upload of Texture Font fontname complete
+38.1302 	EXP 	window1: mouseVisible = True
+38.1305 	EXP 	window1: mouseVisible = True
+38.1316 	EXP 	window1: mouseVisible = True
+38.1328 	EXP 	window1: mouseVisible = True
+38.1403 	EXP 	window1: mouseVisible = True
+38.1435 	EXP 	window1: mouseVisible = True
+38.1984 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=['Familiar', 'Unfamiliar'], lineColor=None, markerColor=None, name='slider', opacity=None, ori=0.0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+38.1986 	EXP 	window1: mouseVisible = True
+38.2001 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.2004 	EXP 	window1: mouseVisible = True
+38.2005 	EXP 	window1: mouseVisible = True
+38.2013 	EXP 	window1: mouseVisible = True
+38.2019 	EXP 	window1: mouseVisible = True
+38.2068 	EXP 	window1: mouseVisible = True
+38.2070 	EXP 	window1: mouseVisible = True
+38.2079 	EXP 	window1: mouseVisible = True
+38.2086 	EXP 	window1: mouseVisible = True
+38.2165 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2227 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2273 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2319 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2346 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2373 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2410 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2437 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2457 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+38.2462 	DEBUG 	Uploading Texture Font fontname to graphics card
+38.2478 	DEBUG 	Upload of Texture Font fontname complete
+38.2508 	EXP 	window1: mouseVisible = True
+38.5743 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), rgb=UNKNOWN, text='Click to Submit', units='height', win=Window(...), wrapWidth=1)
+0.0074 	EXP 	slider: autoLog = True
+0.0074 	EXP 	slider: styleTweaks = []
+0.0074 	EXP 	slider: styleTweaks = []
+0.0074 	EXP 	slider: styleTweaks = []
+0.0074 	EXP 	slider: styleTweaks = []
+0.0074 	EXP 	slider: contrast = 1.0
+0.0074 	EXP 	slider: markerPos = None
+0.0074 	EXP 	slider: autoLog = True
+0.0074 	EXP 	textbox: autoLog = True
+0.0266 	DEBUG 	Read excel file with openpyxl: C:/Users/ishas/OneDrive/Desktop/Lab in Psych/word_priming_task/study_words.xlsx
+0.0271 	EXP 	Imported C:/Users/ishas/OneDrive/Desktop/Lab in Psych/word_priming_task/study_words.xlsx as conditions, 15 conditions, 1 params
+0.0295 	EXP 	Created sequence: random, trialTypes=15, nReps=1, seed=None
+0.0301 	EXP 	New trial (rep=0, index=0): {'study_word': 'cushion'}
+0.1079 	EXP 	text: height = 0.05
+0.1079 	EXP 	text: height = 0.05
+0.1079 	EXP 	text: height = 0.05
+0.1079 	EXP 	text: text = 'cushion'
+0.1079 	EXP 	slider: markerPos = None
+0.1079 	EXP 	slider: markerPos = None
+0.1079 	EXP 	text: autoDraw = True
+0.1079 	EXP 	slider: autoDraw = True
+5.8713 	DATA 	Mouse: Left button down, pos=(102,121)
+5.9477 	EXP 	slider: markerPos = 1.0133333333333334
+5.9809 	EXP 	slider: markerPos = 1.0133333333333334
+6.0144 	EXP 	slider: markerPos = 1.0133333333333334
+6.0644 	EXP 	slider: markerPos = 1.0133333333333334
+6.0943 	DATA 	Mouse:  Left button up, pos=(102,121)
+6.0975 	EXP 	slider: markerPos = 1.0133333333333334
+6.1312 	EXP 	slider: markerPos = 1.0133333333333334
+6.1576 	EXP 	New trial (rep=0, index=1): {'study_word': 'tshirt'}
+6.2145 	EXP 	text: autoDraw = False
+6.2145 	EXP 	slider: autoDraw = False
+6.2145 	EXP 	text: height = 0.05
+6.2145 	EXP 	text: height = 0.05
+6.2145 	EXP 	text: height = 0.05
+6.2145 	EXP 	text: text = 'tshirt'
+6.2145 	EXP 	slider: markerPos = None
+6.2145 	EXP 	slider: markerPos = None
+6.2145 	EXP 	text: autoDraw = True
+6.2145 	EXP 	slider: autoDraw = True
+7.3748 	DATA 	Mouse: Left button down, pos=(102,121)
+7.4329 	EXP 	slider: markerPos = 1.0133333333333334
+7.4828 	EXP 	slider: markerPos = 1.0133333333333334
+7.5157 	EXP 	slider: markerPos = 1.0133333333333334
+7.5490 	EXP 	slider: markerPos = 1.0133333333333334
+7.5831 	EXP 	slider: markerPos = 1.0133333333333334
+7.5937 	DATA 	Mouse:  Left button up, pos=(102,121)
+7.6159 	EXP 	slider: markerPos = 1.0133333333333334
+7.6325 	EXP 	New trial (rep=0, index=2): {'study_word': 'chart'}
+7.6659 	EXP 	text: autoDraw = False
+7.6659 	EXP 	slider: autoDraw = False
+7.6659 	EXP 	text: height = 0.05
+7.6659 	EXP 	text: height = 0.05
+7.6659 	EXP 	text: height = 0.05
+7.6659 	EXP 	text: text = 'chart'
+7.6659 	EXP 	slider: markerPos = None
+7.6659 	EXP 	slider: markerPos = None
+7.6659 	EXP 	text: autoDraw = True
+7.6659 	EXP 	slider: autoDraw = True
+8.5431 	DATA 	Mouse: Left button down, pos=(102,121)
+8.5840 	EXP 	slider: markerPos = 1.0133333333333334
+8.6502 	EXP 	slider: markerPos = 1.0133333333333334
+8.7007 	EXP 	slider: markerPos = 1.0133333333333334
+8.7509 	EXP 	slider: markerPos = 1.0133333333333334
+8.7611 	DATA 	Mouse:  Left button up, pos=(102,121)
+8.8010 	EXP 	slider: markerPos = 1.0133333333333334
+8.8195 	EXP 	New trial (rep=0, index=3): {'study_word': 'book'}
+8.8675 	EXP 	text: autoDraw = False
+8.8675 	EXP 	slider: autoDraw = False
+8.8675 	EXP 	text: height = 0.05
+8.8675 	EXP 	text: height = 0.05
+8.8675 	EXP 	text: height = 0.05
+8.8675 	EXP 	text: text = 'book'
+8.8675 	EXP 	slider: markerPos = None
+8.8675 	EXP 	slider: markerPos = None
+8.8675 	EXP 	text: autoDraw = True
+8.8675 	EXP 	slider: autoDraw = True
+9.5467 	DATA 	Mouse: Left button down, pos=(102,121)
+9.5849 	EXP 	slider: markerPos = 1.0133333333333334
+9.6351 	EXP 	slider: markerPos = 1.0133333333333334
+9.6853 	EXP 	slider: markerPos = 1.0133333333333334
+9.7351 	EXP 	slider: markerPos = 1.0133333333333334
+9.7714 	DATA 	Mouse:  Left button up, pos=(102,121)
+9.7852 	EXP 	slider: markerPos = 1.0133333333333334
+9.8354 	EXP 	slider: markerPos = 1.0133333333333334
+9.8529 	EXP 	New trial (rep=0, index=4): {'study_word': 'mouse'}
+9.9189 	EXP 	text: autoDraw = False
+9.9189 	EXP 	slider: autoDraw = False
+9.9189 	EXP 	text: height = 0.05
+9.9189 	EXP 	text: height = 0.05
+9.9189 	EXP 	text: height = 0.05
+9.9189 	EXP 	text: text = 'mouse'
+9.9189 	EXP 	slider: markerPos = None
+9.9189 	EXP 	slider: markerPos = None
+9.9189 	EXP 	text: autoDraw = True
+9.9189 	EXP 	slider: autoDraw = True
+10.6312 	DATA 	Mouse: Left button down, pos=(102,121)
+10.6697 	EXP 	slider: markerPos = 1.0133333333333334
+10.7197 	EXP 	slider: markerPos = 1.0133333333333334
+10.7697 	EXP 	slider: markerPos = 1.0133333333333334
+10.8199 	EXP 	slider: markerPos = 1.0133333333333334
+10.8571 	DATA 	Mouse:  Left button up, pos=(102,121)
+10.8695 	EXP 	slider: markerPos = 1.0133333333333334
+10.9196 	EXP 	slider: markerPos = 1.0133333333333334
+10.9387 	EXP 	New trial (rep=0, index=5): {'study_word': 'laptop'}
+10.9870 	EXP 	text: autoDraw = False
+10.9870 	EXP 	slider: autoDraw = False
+10.9870 	EXP 	text: height = 0.05
+10.9870 	EXP 	text: height = 0.05
+10.9870 	EXP 	text: height = 0.05
+10.9870 	EXP 	text: text = 'laptop'
+10.9870 	EXP 	slider: markerPos = None
+10.9870 	EXP 	slider: markerPos = None
+10.9870 	EXP 	text: autoDraw = True
+10.9870 	EXP 	slider: autoDraw = True
+11.5772 	DATA 	Mouse: Left button down, pos=(102,121)
+11.6204 	EXP 	slider: markerPos = 1.0133333333333334
+11.6542 	EXP 	slider: markerPos = 1.0133333333333334
+11.7039 	EXP 	slider: markerPos = 1.0133333333333334
+11.7540 	EXP 	slider: markerPos = 1.0133333333333334
+11.8040 	EXP 	slider: markerPos = 1.0133333333333334
+11.8146 	DATA 	Mouse:  Left button up, pos=(102,121)
+11.8543 	EXP 	slider: markerPos = 1.0133333333333334
+11.8731 	EXP 	New trial (rep=0, index=6): {'study_word': 'cruise'}
+11.9043 	EXP 	text: autoDraw = False
+11.9043 	EXP 	slider: autoDraw = False
+11.9043 	EXP 	text: height = 0.05
+11.9043 	EXP 	text: height = 0.05
+11.9043 	EXP 	text: height = 0.05
+11.9043 	EXP 	text: text = 'cruise'
+11.9043 	EXP 	slider: markerPos = None
+11.9043 	EXP 	slider: markerPos = None
+11.9043 	EXP 	text: autoDraw = True
+11.9043 	EXP 	slider: autoDraw = True
+12.7819 	DATA 	Mouse: Left button down, pos=(102,121)
+12.8218 	EXP 	slider: markerPos = 1.0133333333333334
+12.8719 	EXP 	slider: markerPos = 1.0133333333333334
+12.9222 	EXP 	slider: markerPos = 1.0133333333333334
+12.9723 	EXP 	slider: markerPos = 1.0133333333333334
+13.0094 	DATA 	Mouse:  Left button up, pos=(102,121)
+13.0222 	EXP 	slider: markerPos = 1.0133333333333334
+13.0552 	EXP 	slider: markerPos = 1.0133333333333334
+13.0625 	EXP 	New trial (rep=0, index=7): {'study_word': 'marble'}
+13.1052 	EXP 	text: autoDraw = False
+13.1052 	EXP 	slider: autoDraw = False
+13.1052 	EXP 	text: height = 0.05
+13.1052 	EXP 	text: height = 0.05
+13.1052 	EXP 	text: height = 0.05
+13.1052 	EXP 	text: text = 'marble'
+13.1052 	EXP 	slider: markerPos = None
+13.1052 	EXP 	slider: markerPos = None
+13.1052 	EXP 	text: autoDraw = True
+13.1052 	EXP 	slider: autoDraw = True
+13.7676 	DATA 	Mouse: Left button down, pos=(102,121)
+13.8061 	EXP 	slider: markerPos = 1.0133333333333334
+13.8563 	EXP 	slider: markerPos = 1.0133333333333334
+13.8893 	EXP 	slider: markerPos = 1.0133333333333334
+13.9227 	EXP 	slider: markerPos = 1.0133333333333334
+13.9564 	EXP 	slider: markerPos = 1.0133333333333334
+13.9808 	DATA 	Mouse:  Left button up, pos=(102,121)
+13.9897 	EXP 	slider: markerPos = 1.0133333333333334
+14.0232 	EXP 	slider: markerPos = 1.0133333333333334
+14.0408 	EXP 	New trial (rep=0, index=8): {'study_word': 'board'}
+14.1069 	EXP 	text: autoDraw = False
+14.1069 	EXP 	slider: autoDraw = False
+14.1069 	EXP 	text: height = 0.05
+14.1069 	EXP 	text: height = 0.05
+14.1069 	EXP 	text: height = 0.05
+14.1069 	EXP 	text: text = 'board'
+14.1069 	EXP 	slider: markerPos = None
+14.1069 	EXP 	slider: markerPos = None
+14.1069 	EXP 	text: autoDraw = True
+14.1069 	EXP 	slider: autoDraw = True
+14.7496 	DATA 	Mouse: Left button down, pos=(102,121)
+14.7741 	EXP 	slider: markerPos = 1.0133333333333334
+14.8072 	EXP 	slider: markerPos = 1.0133333333333334
+14.8407 	EXP 	slider: markerPos = 1.0133333333333334
+14.8910 	EXP 	slider: markerPos = 1.0133333333333334
+14.9408 	EXP 	slider: markerPos = 1.0133333333333334
+14.9717 	DATA 	Mouse:  Left button up, pos=(102,121)
+14.9910 	EXP 	slider: markerPos = 1.0133333333333334
+15.0240 	EXP 	slider: markerPos = 1.0133333333333334
+15.0325 	EXP 	New trial (rep=0, index=9): {'study_word': 'police'}
+15.0575 	EXP 	text: autoDraw = False
+15.0575 	EXP 	slider: autoDraw = False
+15.0575 	EXP 	text: height = 0.05
+15.0575 	EXP 	text: height = 0.05
+15.0575 	EXP 	text: height = 0.05
+15.0575 	EXP 	text: text = 'police'
+15.0575 	EXP 	slider: markerPos = None
+15.0575 	EXP 	slider: markerPos = None
+15.0575 	EXP 	text: autoDraw = True
+15.0575 	EXP 	slider: autoDraw = True
+15.6984 	DATA 	Mouse: Left button down, pos=(102,121)
+15.7255 	EXP 	slider: markerPos = 1.0133333333333334
+15.7581 	EXP 	slider: markerPos = 1.0133333333333334
+15.7918 	EXP 	slider: markerPos = 1.0133333333333334
+15.8250 	EXP 	slider: markerPos = 1.0133333333333334
+15.8585 	EXP 	slider: markerPos = 1.0133333333333334
+15.8917 	EXP 	slider: markerPos = 1.0133333333333334
+15.9136 	DATA 	Mouse:  Left button up, pos=(102,121)
+15.9255 	EXP 	slider: markerPos = 1.0133333333333334
+15.9586 	EXP 	slider: markerPos = 1.0133333333333334
+15.9742 	EXP 	New trial (rep=0, index=10): {'study_word': 'pastry'}
+16.0086 	EXP 	text: autoDraw = False
+16.0086 	EXP 	slider: autoDraw = False
+16.0086 	EXP 	text: height = 0.05
+16.0086 	EXP 	text: height = 0.05
+16.0086 	EXP 	text: height = 0.05
+16.0086 	EXP 	text: text = 'pastry'
+16.0086 	EXP 	slider: markerPos = None
+16.0086 	EXP 	slider: markerPos = None
+16.0086 	EXP 	text: autoDraw = True
+16.0086 	EXP 	slider: autoDraw = True
+16.8350 	DATA 	Mouse: Left button down, pos=(102,121)
+16.8928 	EXP 	slider: markerPos = 1.0133333333333334
+16.9430 	EXP 	slider: markerPos = 1.0133333333333334
+16.9760 	EXP 	slider: markerPos = 1.0133333333333334
+17.0099 	EXP 	slider: markerPos = 1.0133333333333334
+17.0603 	EXP 	slider: markerPos = 1.0133333333333334
+17.0710 	DATA 	Mouse:  Left button up, pos=(102,121)
+17.0931 	EXP 	slider: markerPos = 1.0133333333333334
+17.1008 	EXP 	New trial (rep=0, index=11): {'study_word': 'phone'}
+17.1267 	EXP 	text: autoDraw = False
+17.1267 	EXP 	slider: autoDraw = False
+17.1267 	EXP 	text: height = 0.05
+17.1267 	EXP 	text: height = 0.05
+17.1267 	EXP 	text: height = 0.05
+17.1267 	EXP 	text: text = 'phone'
+17.1267 	EXP 	slider: markerPos = None
+17.1267 	EXP 	slider: markerPos = None
+17.1267 	EXP 	text: autoDraw = True
+17.1267 	EXP 	slider: autoDraw = True
+17.7343 	DATA 	Mouse: Left button down, pos=(102,121)
+17.7768 	EXP 	slider: markerPos = 1.0133333333333334
+17.8105 	EXP 	slider: markerPos = 1.0133333333333334
+17.8610 	EXP 	slider: markerPos = 1.0133333333333334
+17.9107 	EXP 	slider: markerPos = 1.0133333333333334
+17.9491 	DATA 	Mouse:  Left button up, pos=(102,121)
+17.9609 	EXP 	slider: markerPos = 1.0133333333333334
+18.0111 	EXP 	slider: markerPos = 1.0133333333333334
+18.0293 	EXP 	New trial (rep=0, index=12): {'study_word': 'poster'}
+18.0775 	EXP 	text: autoDraw = False
+18.0775 	EXP 	slider: autoDraw = False
+18.0775 	EXP 	text: height = 0.05
+18.0775 	EXP 	text: height = 0.05
+18.0775 	EXP 	text: height = 0.05
+18.0775 	EXP 	text: text = 'poster'
+18.0775 	EXP 	slider: markerPos = None
+18.0775 	EXP 	slider: markerPos = None
+18.0775 	EXP 	text: autoDraw = True
+18.0775 	EXP 	slider: autoDraw = True
+18.7854 	DATA 	Mouse: Left button down, pos=(102,121)
+18.8115 	EXP 	slider: markerPos = 1.0133333333333334
+18.8452 	EXP 	slider: markerPos = 1.0133333333333334
+18.8953 	EXP 	slider: markerPos = 1.0133333333333334
+18.9452 	EXP 	slider: markerPos = 1.0133333333333334
+18.9953 	EXP 	slider: markerPos = 1.0133333333333334
+19.0326 	DATA 	Mouse:  Left button up, pos=(102,121)
+19.0457 	EXP 	slider: markerPos = 1.0133333333333334
+19.0954 	EXP 	slider: markerPos = 1.0133333333333334
+19.1137 	EXP 	New trial (rep=0, index=13): {'study_word': 'case'}
+19.1616 	EXP 	text: autoDraw = False
+19.1616 	EXP 	slider: autoDraw = False
+19.1616 	EXP 	text: height = 0.05
+19.1616 	EXP 	text: height = 0.05
+19.1616 	EXP 	text: height = 0.05
+19.1616 	EXP 	text: text = 'case'
+19.1616 	EXP 	slider: markerPos = None
+19.1616 	EXP 	slider: markerPos = None
+19.1616 	EXP 	text: autoDraw = True
+19.1616 	EXP 	slider: autoDraw = True
+19.7028 	DATA 	Mouse: Left button down, pos=(102,121)
+19.7298 	EXP 	slider: markerPos = 1.0133333333333334
+19.7624 	EXP 	slider: markerPos = 1.0133333333333334
+19.7958 	EXP 	slider: markerPos = 1.0133333333333334
+19.8298 	EXP 	slider: markerPos = 1.0133333333333334
+19.8795 	EXP 	slider: markerPos = 1.0133333333333334
+19.9295 	EXP 	slider: markerPos = 1.0133333333333334
+19.9398 	DATA 	Mouse:  Left button up, pos=(102,121)
+19.9796 	EXP 	slider: markerPos = 1.0133333333333334
+19.9967 	EXP 	New trial (rep=0, index=14): {'study_word': 'keys'}
+20.0292 	EXP 	text: autoDraw = False
+20.0292 	EXP 	slider: autoDraw = False
+20.0292 	EXP 	text: height = 0.05
+20.0292 	EXP 	text: height = 0.05
+20.0292 	EXP 	text: height = 0.05
+20.0292 	EXP 	text: text = 'keys'
+20.0292 	EXP 	slider: markerPos = None
+20.0292 	EXP 	slider: markerPos = None
+20.0292 	EXP 	text: autoDraw = True
+20.0292 	EXP 	slider: autoDraw = True
+20.5717 	DATA 	Mouse: Left button down, pos=(102,121)
+20.6137 	EXP 	slider: markerPos = 1.0133333333333334
+20.6466 	EXP 	slider: markerPos = 1.0133333333333334
+20.6805 	EXP 	slider: markerPos = 1.0133333333333334
+20.7305 	EXP 	slider: markerPos = 1.0133333333333334
+20.7635 	EXP 	slider: markerPos = 1.0133333333333334
+20.7969 	EXP 	slider: markerPos = 1.0133333333333334
+20.8015 	DATA 	Mouse:  Left button up, pos=(102,121)
+20.8305 	EXP 	slider: markerPos = 1.0133333333333334
+20.8593 	DEBUG 	Read excel file with openpyxl: C:/Users/ishas/OneDrive/Desktop/Lab in Psych/word_priming_task/test_words.xlsx
+20.8614 	EXP 	Imported C:/Users/ishas/OneDrive/Desktop/Lab in Psych/word_priming_task/test_words.xlsx as conditions, 20 conditions, 3 params
+20.8622 	EXP 	Created sequence: random, trialTypes=20, nReps=1, seed=None
+20.8625 	EXP 	New trial (rep=0, index=0): {'test_word': '_o_rd', 'reference': 'board', 'old_new': 'old'}
+20.8973 	EXP 	text: autoDraw = False
+20.8973 	EXP 	slider: autoDraw = False
+20.8973 	EXP 	text_2: height = 0.05
+20.8973 	EXP 	text_2: height = 0.05
+20.8973 	EXP 	text_2: height = 0.05
+20.8973 	EXP 	text_2: text = '_o_rd'
+20.8973 	EXP 	text_2: autoDraw = True
+20.8973 	EXP 	textbox: autoDraw = True
+20.8973 	EXP 	text_3: autoDraw = True
+30.7634 	DATA 	Keypress: b
+30.7666 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+30.7670 	DEBUG 	Uploading Texture Font fontname to graphics card
+30.7679 	DEBUG 	Upload of Texture Font fontname complete
+30.8900 	EXP 	New trial (rep=0, index=1): {'test_word': 'p_s_tr_', 'reference': 'pastry', 'old_new': 'old'}
+30.9257 	EXP 	text_2: autoDraw = False
+30.9257 	EXP 	textbox: autoDraw = False
+30.9257 	EXP 	text_3: autoDraw = False
+30.9257 	EXP 	text_2: height = 0.05
+30.9257 	EXP 	text_2: height = 0.05
+30.9257 	EXP 	text_2: height = 0.05
+30.9257 	EXP 	text_2: text = 'p_s_tr_'
+30.9257 	EXP 	text_2: autoDraw = True
+30.9257 	EXP 	textbox: autoDraw = True
+30.9257 	EXP 	text_3: autoDraw = True
+35.2536 	DATA 	Keypress: a
+35.2572 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.2576 	DEBUG 	Uploading Texture Font fontname to graphics card
+35.2586 	DEBUG 	Upload of Texture Font fontname complete
+37.6241 	DATA 	Keypress: r
+37.8243 	DATA 	Keypress: y
+39.4104 	DATA 	Keypress: minus
+39.4141 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+39.4146 	DEBUG 	Uploading Texture Font fontname to graphics card
+39.4157 	DEBUG 	Upload of Texture Font fontname complete
+39.6695 	DATA 	Keypress: minus
+40.2270 	DATA 	Keypress: equal
+40.2316 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+40.2322 	DEBUG 	Uploading Texture Font fontname to graphics card
+40.2334 	DEBUG 	Upload of Texture Font fontname complete
+40.8623 	EXP 	New trial (rep=0, index=2): {'test_word': 'p_li_e', 'reference': 'police', 'old_new': 'old'}
+40.8862 	DATA 	Keypress: backspace
+40.9033 	EXP 	text_2: autoDraw = False
+40.9033 	EXP 	textbox: autoDraw = False
+40.9033 	EXP 	text_3: autoDraw = False
+40.9033 	EXP 	text_2: height = 0.05
+40.9033 	EXP 	text_2: height = 0.05
+40.9033 	EXP 	text_2: height = 0.05
+40.9033 	EXP 	text_2: text = 'p_li_e'
+40.9033 	EXP 	text_2: autoDraw = True
+40.9033 	EXP 	textbox: autoDraw = True
+40.9033 	EXP 	text_3: autoDraw = True
+41.0083 	DATA 	Keypress: backspace
+41.1257 	DATA 	Keypress: backspace
+42.7258 	DATA 	Keypress: p
+42.9169 	DATA 	Keypress: o
+42.9250 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.9261 	DEBUG 	Uploading Texture Font fontname to graphics card
+42.9275 	DEBUG 	Upload of Texture Font fontname complete
+43.0795 	DATA 	Keypress: l
+43.0840 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+43.0846 	DEBUG 	Uploading Texture Font fontname to graphics card
+43.0858 	DEBUG 	Upload of Texture Font fontname complete
+43.2630 	DATA 	Keypress: i
+43.2677 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+43.2687 	DEBUG 	Uploading Texture Font fontname to graphics card
+43.2698 	DEBUG 	Upload of Texture Font fontname complete
+43.4643 	DATA 	Keypress: c
+43.4698 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+43.4706 	DEBUG 	Uploading Texture Font fontname to graphics card
+43.4718 	DEBUG 	Upload of Texture Font fontname complete
+43.6816 	DATA 	Keypress: w
+43.6883 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+43.6891 	DEBUG 	Uploading Texture Font fontname to graphics card
+43.6901 	DEBUG 	Upload of Texture Font fontname complete
+44.6655 	DATA 	Keypress: backspace
+44.9767 	DATA 	Keypress: e
+47.6682 	DATA 	Mouse: Left button down, pos=(393,115)
+47.6722 	EXP 	New trial (rep=0, index=3): {'test_word': '_ho_e', 'reference': 'phone', 'old_new': 'old'}
+47.7108 	EXP 	text_2: autoDraw = False
+47.7108 	EXP 	textbox: autoDraw = False
+47.7108 	EXP 	text_3: autoDraw = False
+47.7108 	EXP 	text_2: height = 0.05
+47.7108 	EXP 	text_2: height = 0.05
+47.7108 	EXP 	text_2: height = 0.05
+47.7108 	EXP 	text_2: text = '_ho_e'
+47.7108 	EXP 	text_2: autoDraw = True
+47.7108 	EXP 	textbox: autoDraw = True
+47.7108 	EXP 	text_3: autoDraw = True
+47.8853 	DATA 	Mouse:  Left button up, pos=(393,115)
+52.6420 	DATA 	Keypress: s
+52.6473 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+52.6480 	DEBUG 	Uploading Texture Font fontname to graphics card
+52.6490 	DEBUG 	Upload of Texture Font fontname complete
+54.0587 	DATA 	Keypress: backspace
+57.6976 	EXP 	New trial (rep=0, index=4): {'test_word': 'c_s_', 'reference': 'case', 'old_new': 'old'}
+57.7215 	EXP 	text_2: autoDraw = False
+57.7215 	EXP 	textbox: autoDraw = False
+57.7215 	EXP 	text_3: autoDraw = False
+57.7215 	EXP 	text_2: height = 0.05
+57.7215 	EXP 	text_2: height = 0.05
+57.7215 	EXP 	text_2: height = 0.05
+57.7215 	EXP 	text_2: text = 'c_s_'
+57.7215 	EXP 	text_2: autoDraw = True
+57.7215 	EXP 	textbox: autoDraw = True
+57.7215 	EXP 	text_3: autoDraw = True
+62.2502 	DATA 	Keypress: c
+62.6347 	DATA 	Keypress: u
+62.6405 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+62.6413 	DEBUG 	Uploading Texture Font fontname to graphics card
+62.6425 	DEBUG 	Upload of Texture Font fontname complete
+63.6971 	DATA 	Keypress: s
+63.8859 	DATA 	Keypress: p
+65.9226 	DATA 	Mouse: Left button down, pos=(379,114)
+65.9258 	EXP 	New trial (rep=0, index=5): {'test_word': '_r_is_', 'reference': 'cruise', 'old_new': 'old'}
+65.9640 	EXP 	text_2: autoDraw = False
+65.9640 	EXP 	textbox: autoDraw = False
+65.9640 	EXP 	text_3: autoDraw = False
+65.9640 	EXP 	text_2: height = 0.05
+65.9640 	EXP 	text_2: height = 0.05
+65.9640 	EXP 	text_2: height = 0.05
+65.9640 	EXP 	text_2: text = '_r_is_'
+65.9640 	EXP 	text_2: autoDraw = True
+65.9640 	EXP 	textbox: autoDraw = True
+65.9640 	EXP 	text_3: autoDraw = True
+66.1397 	DATA 	Mouse:  Left button up, pos=(379,114)
+75.9327 	EXP 	New trial (rep=0, index=6): {'test_word': 'ta_l_', 'reference': 'table', 'old_new': 'old'}
+75.9584 	EXP 	text_2: autoDraw = False
+75.9584 	EXP 	textbox: autoDraw = False
+75.9584 	EXP 	text_3: autoDraw = False
+75.9584 	EXP 	text_2: height = 0.05
+75.9584 	EXP 	text_2: height = 0.05
+75.9584 	EXP 	text_2: height = 0.05
+75.9584 	EXP 	text_2: text = 'ta_l_'
+75.9584 	EXP 	text_2: autoDraw = True
+75.9584 	EXP 	textbox: autoDraw = True
+75.9584 	EXP 	text_3: autoDraw = True
+84.1862 	DATA 	Keypress: t
+84.1908 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+84.1915 	DEBUG 	Uploading Texture Font fontname to graphics card
+84.1925 	DEBUG 	Upload of Texture Font fontname complete
+84.4586 	DATA 	Keypress: a
+85.9285 	EXP 	New trial (rep=0, index=7): {'test_word': 'l_pt_p', 'reference': 'laptop', 'old_new': 'old'}
+85.9693 	EXP 	text_2: autoDraw = False
+85.9693 	EXP 	textbox: autoDraw = False
+85.9693 	EXP 	text_3: autoDraw = False
+85.9693 	EXP 	text_2: height = 0.05
+85.9693 	EXP 	text_2: height = 0.05
+85.9693 	EXP 	text_2: height = 0.05
+85.9693 	EXP 	text_2: text = 'l_pt_p'
+85.9693 	EXP 	text_2: autoDraw = True
+85.9693 	EXP 	textbox: autoDraw = True
+85.9693 	EXP 	text_3: autoDraw = True
+87.1121 	DATA 	Keypress: l
+87.2783 	DATA 	Keypress: a
+87.7455 	DATA 	Keypress: p
+88.1592 	DATA 	Keypress: t
+88.3465 	DATA 	Keypress: o
+88.7802 	DATA 	Keypress: p
+90.0276 	DATA 	Mouse: Left button down, pos=(404,87)
+90.2486 	DATA 	Mouse:  Left button up, pos=(404,87)
+91.2178 	DATA 	Mouse: Left button down, pos=(404,122)
+91.2211 	EXP 	New trial (rep=0, index=8): {'test_word': '_ha_t', 'reference': 'chart', 'old_new': 'old'}
+91.2584 	EXP 	text_2: autoDraw = False
+91.2584 	EXP 	textbox: autoDraw = False
+91.2584 	EXP 	text_3: autoDraw = False
+91.2584 	EXP 	text_2: height = 0.05
+91.2584 	EXP 	text_2: height = 0.05
+91.2584 	EXP 	text_2: height = 0.05
+91.2584 	EXP 	text_2: text = '_ha_t'
+91.2584 	EXP 	text_2: autoDraw = True
+91.2584 	EXP 	textbox: autoDraw = True
+91.2584 	EXP 	text_3: autoDraw = True
+91.4491 	DATA 	Mouse:  Left button up, pos=(404,122)
+92.8256 	DATA 	Mouse: Left button down, pos=(392,284)
+93.0452 	DATA 	Mouse:  Left button up, pos=(392,284)
+98.3736 	DATA 	Keypress: s
+98.6416 	DATA 	Keypress: h
+99.0218 	DATA 	Keypress: a
+100.3540 	DATA 	Keypress: f
+100.3596 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+100.3604 	DEBUG 	Uploading Texture Font fontname to graphics card
+100.3615 	DEBUG 	Upload of Texture Font fontname complete
+100.5368 	DATA 	Keypress: t
+101.2450 	EXP 	New trial (rep=0, index=9): {'test_word': 'bo_t_e', 'reference': 'bottle', 'old_new': 'new'}
+101.2861 	EXP 	text_2: autoDraw = False
+101.2861 	EXP 	textbox: autoDraw = False
+101.2861 	EXP 	text_3: autoDraw = False
+101.2861 	EXP 	text_2: height = 0.05
+101.2861 	EXP 	text_2: height = 0.05
+101.2861 	EXP 	text_2: height = 0.05
+101.2861 	EXP 	text_2: text = 'bo_t_e'
+101.2861 	EXP 	text_2: autoDraw = True
+101.2861 	EXP 	textbox: autoDraw = True
+101.2861 	EXP 	text_3: autoDraw = True
+101.5798 	DATA 	Mouse: Left button down, pos=(377,146)
+101.7954 	DATA 	Mouse:  Left button up, pos=(377,146)
+103.0295 	DATA 	Keypress: b
+103.2601 	DATA 	Keypress: i
+103.8294 	DATA 	Keypress: t
+104.8641 	DATA 	Keypress: backspace
+105.5106 	DATA 	Keypress: backspace
+106.0664 	DATA 	Keypress: o
+106.6329 	DATA 	Keypress: t
+106.8115 	DATA 	Keypress: t
+107.4338 	DATA 	Keypress: l
+107.6794 	DATA 	Keypress: e
+108.9032 	DATA 	Mouse: Left button down, pos=(417,117)
+108.9065 	EXP 	New trial (rep=0, index=10): {'test_word': 'p_nc_l', 'reference': 'pencil', 'old_new': 'new'}
+108.9445 	EXP 	text_2: autoDraw = False
+108.9445 	EXP 	textbox: autoDraw = False
+108.9445 	EXP 	text_3: autoDraw = False
+108.9445 	EXP 	text_2: height = 0.05
+108.9445 	EXP 	text_2: height = 0.05
+108.9445 	EXP 	text_2: height = 0.05
+108.9445 	EXP 	text_2: text = 'p_nc_l'
+108.9445 	EXP 	text_2: autoDraw = True
+108.9445 	EXP 	textbox: autoDraw = True
+108.9445 	EXP 	text_3: autoDraw = True
+109.1192 	DATA 	Mouse:  Left button up, pos=(417,117)
+110.3427 	DATA 	Keypress: o
+110.5706 	DATA 	Keypress: e
+111.3049 	DATA 	Keypress: n
+111.3105 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+111.3115 	DEBUG 	Uploading Texture Font fontname to graphics card
+111.3132 	DEBUG 	Upload of Texture Font fontname complete
+112.2555 	DATA 	Keypress: backspace
+112.3698 	DATA 	Keypress: backspace
+112.5037 	DATA 	Keypress: backspace
+113.1063 	DATA 	Keypress: p
+113.3401 	DATA 	Keypress: e
+113.5404 	DATA 	Keypress: n
+113.7507 	DATA 	Keypress: c
+113.8744 	DATA 	Keypress: i
+114.0914 	DATA 	Keypress: l
+115.5259 	DATA 	Mouse: Left button down, pos=(372,136)
+115.5292 	EXP 	New trial (rep=0, index=11): {'test_word': 'c_m_ra', 'reference': 'camera', 'old_new': 'new'}
+115.5685 	EXP 	text_2: autoDraw = False
+115.5685 	EXP 	textbox: autoDraw = False
+115.5685 	EXP 	text_3: autoDraw = False
+115.5685 	EXP 	text_2: height = 0.05
+115.5685 	EXP 	text_2: height = 0.05
+115.5685 	EXP 	text_2: height = 0.05
+115.5685 	EXP 	text_2: text = 'c_m_ra'
+115.5685 	EXP 	text_2: autoDraw = True
+115.5685 	EXP 	textbox: autoDraw = True
+115.5685 	EXP 	text_3: autoDraw = True
+115.7594 	DATA 	Mouse:  Left button up, pos=(372,136)
+116.7697 	DATA 	Mouse: Left button down, pos=(383,298)
+116.9938 	DATA 	Mouse:  Left button up, pos=(383,298)
+117.7791 	DATA 	Keypress: c
+118.1724 	DATA 	Keypress: a
+118.3959 	DATA 	Keypress: m
+118.4029 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+118.4038 	DEBUG 	Uploading Texture Font fontname to graphics card
+118.4049 	DEBUG 	Upload of Texture Font fontname complete
+118.5296 	DATA 	Keypress: e
+118.7423 	DATA 	Keypress: r
+119.1638 	DATA 	Keypress: a
+120.2947 	DATA 	Mouse: Left button down, pos=(386,176)
+120.5145 	DATA 	Mouse:  Left button up, pos=(386,176)
+121.4292 	DATA 	Mouse: Left button down, pos=(383,120)
+121.4523 	EXP 	New trial (rep=0, index=12): {'test_word': '_a_bl_', 'reference': 'marble', 'old_new': 'old'}
+121.4915 	EXP 	text_2: autoDraw = False
+121.4915 	EXP 	textbox: autoDraw = False
+121.4915 	EXP 	text_3: autoDraw = False
+121.4915 	EXP 	text_2: height = 0.05
+121.4915 	EXP 	text_2: height = 0.05
+121.4915 	EXP 	text_2: height = 0.05
+121.4915 	EXP 	text_2: text = '_a_bl_'
+121.4915 	EXP 	text_2: autoDraw = True
+121.4915 	EXP 	textbox: autoDraw = True
+121.4915 	EXP 	text_3: autoDraw = True
+121.6649 	DATA 	Mouse:  Left button up, pos=(383,120)
+122.7009 	DATA 	Mouse: Left button down, pos=(397,289)
+122.9102 	DATA 	Mouse:  Left button up, pos=(397,289)
+126.5857 	DATA 	Keypress: t
+128.5184 	DATA 	Keypress: backspace
+131.4796 	EXP 	New trial (rep=0, index=13): {'test_word': '_oo_', 'reference': 'book', 'old_new': 'old'}
+131.5021 	EXP 	text_2: autoDraw = False
+131.5021 	EXP 	textbox: autoDraw = False
+131.5021 	EXP 	text_3: autoDraw = False
+131.5021 	EXP 	text_2: height = 0.05
+131.5021 	EXP 	text_2: height = 0.05
+131.5021 	EXP 	text_2: height = 0.05
+131.5021 	EXP 	text_2: text = '_oo_'
+131.5021 	EXP 	text_2: autoDraw = True
+131.5021 	EXP 	textbox: autoDraw = True
+131.5021 	EXP 	text_3: autoDraw = True
+132.7446 	DATA 	Keypress: b
+133.0123 	DATA 	Keypress: o
+133.1453 	DATA 	Keypress: o
+133.4453 	DATA 	Keypress: k
+133.4508 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+133.4515 	DEBUG 	Uploading Texture Font fontname to graphics card
+133.4530 	DEBUG 	Upload of Texture Font fontname complete
+134.4637 	DATA 	Mouse: Left button down, pos=(393,113)
+134.4669 	EXP 	New trial (rep=0, index=14): {'test_word': '_ou_e', 'reference': 'mouse', 'old_new': 'old'}
+134.5057 	EXP 	text_2: autoDraw = False
+134.5057 	EXP 	textbox: autoDraw = False
+134.5057 	EXP 	text_3: autoDraw = False
+134.5057 	EXP 	text_2: height = 0.05
+134.5057 	EXP 	text_2: height = 0.05
+134.5057 	EXP 	text_2: height = 0.05
+134.5057 	EXP 	text_2: text = '_ou_e'
+134.5057 	EXP 	text_2: autoDraw = True
+134.5057 	EXP 	textbox: autoDraw = True
+134.5057 	EXP 	text_3: autoDraw = True
+134.6816 	DATA 	Mouse:  Left button up, pos=(393,113)
+135.9637 	DATA 	Keypress: m
+136.2430 	DATA 	Keypress: o
+136.5654 	DATA 	Keypress: u
+136.8992 	DATA 	Keypress: s
+137.1443 	DATA 	Keypress: e
+138.1690 	DATA 	Mouse: Left button down, pos=(404,174)
+138.4009 	DATA 	Mouse:  Left button up, pos=(404,174)
+139.5691 	DATA 	Mouse: Left button down, pos=(404,117)
+139.5722 	EXP 	New trial (rep=0, index=15): {'test_word': 'c_s_io_', 'reference': 'cushion', 'old_new': 'old'}
+139.5943 	EXP 	text_2: autoDraw = False
+139.5943 	EXP 	textbox: autoDraw = False
+139.5943 	EXP 	text_3: autoDraw = False
+139.5943 	EXP 	text_2: height = 0.05
+139.5943 	EXP 	text_2: height = 0.05
+139.5943 	EXP 	text_2: height = 0.05
+139.5943 	EXP 	text_2: text = 'c_s_io_'
+139.5943 	EXP 	text_2: autoDraw = True
+139.5943 	EXP 	textbox: autoDraw = True
+139.5943 	EXP 	text_3: autoDraw = True
+139.7833 	DATA 	Mouse:  Left button up, pos=(404,117)
+141.1893 	DATA 	Keypress: c
+142.0381 	DATA 	Keypress: a
+142.2490 	DATA 	Keypress: s
+142.5390 	DATA 	Keypress: i
+142.7503 	DATA 	Keypress: o
+144.0736 	DATA 	Keypress: n
+145.7754 	DATA 	Keypress: backspace
+146.0857 	DATA 	Keypress: backspace
+147.4870 	DATA 	Keypress: backspace
+147.7285 	DATA 	Keypress: backspace
+148.0949 	DATA 	Keypress: backspace
+148.6074 	DATA 	Keypress: u
+148.7290 	DATA 	Keypress: s
+149.5637 	DATA 	Keypress: h
+149.5935 	EXP 	New trial (rep=0, index=16): {'test_word': 'k_y_', 'reference': 'keys', 'old_new': 'old'}
+149.6222 	EXP 	text_2: autoDraw = False
+149.6222 	EXP 	textbox: autoDraw = False
+149.6222 	EXP 	text_3: autoDraw = False
+149.6222 	EXP 	text_2: height = 0.05
+149.6222 	EXP 	text_2: height = 0.05
+149.6222 	EXP 	text_2: height = 0.05
+149.6222 	EXP 	text_2: text = 'k_y_'
+149.6222 	EXP 	text_2: autoDraw = True
+149.6222 	EXP 	textbox: autoDraw = True
+149.6222 	EXP 	text_3: autoDraw = True
+149.8152 	DATA 	Keypress: i
+149.9637 	DATA 	Keypress: o
+150.9980 	DATA 	Keypress: backspace
+151.1650 	DATA 	Keypress: backspace
+152.5684 	DATA 	Keypress: k
+152.7113 	DATA 	Keypress: e
+152.8665 	DATA 	Keypress: y
+153.0131 	DATA 	Keypress: s
+154.1480 	DATA 	Mouse: Left button down, pos=(393,146)
+154.3811 	DATA 	Mouse:  Left button up, pos=(393,146)
+155.4363 	DATA 	Mouse: Left button down, pos=(401,114)
+155.4397 	EXP 	New trial (rep=0, index=17): {'test_word': 't_hi_t', 'reference': 'tshirt', 'old_new': 'old'}
+155.4786 	EXP 	text_2: autoDraw = False
+155.4786 	EXP 	textbox: autoDraw = False
+155.4786 	EXP 	text_3: autoDraw = False
+155.4786 	EXP 	text_2: height = 0.05
+155.4786 	EXP 	text_2: height = 0.05
+155.4786 	EXP 	text_2: height = 0.05
+155.4786 	EXP 	text_2: text = 't_hi_t'
+155.4786 	EXP 	text_2: autoDraw = True
+155.4786 	EXP 	textbox: autoDraw = True
+155.4786 	EXP 	text_3: autoDraw = True
+155.6540 	DATA 	Mouse:  Left button up, pos=(401,114)
+156.6381 	DATA 	Keypress: t
+156.9129 	DATA 	Keypress: h
+157.9201 	DATA 	Keypress: backspace
+158.2898 	DATA 	Keypress: s
+158.4348 	DATA 	Keypress: h
+158.6566 	DATA 	Keypress: i
+158.8018 	DATA 	Keypress: r
+159.0901 	DATA 	Keypress: t
+160.1253 	DATA 	Mouse: Left button down, pos=(367,127)
+160.1286 	EXP 	New trial (rep=0, index=18): {'test_word': 'v_s_', 'reference': 'vase', 'old_new': 'new'}
+160.1666 	EXP 	text_2: autoDraw = False
+160.1666 	EXP 	textbox: autoDraw = False
+160.1666 	EXP 	text_3: autoDraw = False
+160.1666 	EXP 	text_2: height = 0.05
+160.1666 	EXP 	text_2: height = 0.05
+160.1666 	EXP 	text_2: height = 0.05
+160.1666 	EXP 	text_2: text = 'v_s_'
+160.1666 	EXP 	text_2: autoDraw = True
+160.1666 	EXP 	textbox: autoDraw = True
+160.1666 	EXP 	text_3: autoDraw = True
+160.3599 	DATA 	Mouse:  Left button up, pos=(367,127)
+161.5098 	DATA 	Keypress: v
+161.5149 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+161.5156 	DEBUG 	Uploading Texture Font fontname to graphics card
+161.5173 	DEBUG 	Upload of Texture Font fontname complete
+162.8717 	DATA 	Keypress: i
+163.4619 	DATA 	Keypress: backspace
+163.6624 	DATA 	Keypress: backspace
+164.8800 	DATA 	Keypress: v
+167.6278 	DATA 	Keypress: backspace
+170.1554 	EXP 	New trial (rep=0, index=19): {'test_word': 'p_st_r', 'reference': 'poster', 'old_new': 'old'}
+170.1949 	EXP 	text_2: autoDraw = False
+170.1949 	EXP 	textbox: autoDraw = False
+170.1949 	EXP 	text_3: autoDraw = False
+170.1949 	EXP 	text_2: height = 0.05
+170.1949 	EXP 	text_2: height = 0.05
+170.1949 	EXP 	text_2: height = 0.05
+170.1949 	EXP 	text_2: text = 'p_st_r'
+170.1949 	EXP 	text_2: autoDraw = True
+170.1949 	EXP 	textbox: autoDraw = True
+170.1949 	EXP 	text_3: autoDraw = True
+172.8201 	DATA 	Keypress: p
+173.2039 	DATA 	Keypress: capslock
+173.5372 	DATA 	Keypress: a
+173.5411 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+173.5418 	DEBUG 	Uploading Texture Font fontname to graphics card
+173.5429 	DEBUG 	Upload of Texture Font fontname complete
+174.3884 	DATA 	Keypress: capslock
+174.5712 	DATA 	Keypress: backspace
+174.8770 	DATA 	Keypress: a
+175.7431 	DATA 	Keypress: s
+176.1386 	DATA 	Keypress: t
+176.3892 	DATA 	Keypress: o
+176.5393 	DATA 	Keypress: r
+177.7403 	DATA 	Mouse: Left button down, pos=(379,121)
+177.7542 	EXP 	text_2: autoDraw = False
+177.7542 	EXP 	textbox: autoDraw = False
+177.7542 	EXP 	text_3: autoDraw = False
+177.7623 	EXP 	word_priming_task: status = STOPPED
+177.7955 	INFO 	saved data to 'C:\\Users\\ishas\\OneDrive\\Desktop\\Lab in Psych\\word_priming_task\\data/066653_word_priming_task_2024-11-06_09h44.22.137.csv'
+177.7977 	INFO 	saved data to C:\Users\ishas\OneDrive\Desktop\Lab in Psych\word_priming_task\data/066653_word_priming_task_2024-11-06_09h44.22.137.psydat
+177.8414 	EXP 	window1: mouseVisible = True
+178.5434 	DEBUG 	Saving data for word_priming_task ExperimentHandler
