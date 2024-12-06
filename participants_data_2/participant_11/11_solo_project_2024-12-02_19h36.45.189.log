@@ -1,0 +1,571 @@
+17.8774 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+17.8810 	INFO 	Loaded monitor calibration from ['2024_08_07 22:29']
+18.3420 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2E970>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2E910>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2E760>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002049AD567C0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+18.3421 	EXP 	window1: backgroundImage = ''
+18.3421 	EXP 	window1: backgroundFit = 'none'
+18.3423 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2EA90>
+18.3426 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2EA90>
+18.3459 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2EA90>
+18.3470 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2EA90>
+18.3565 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3584 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3602 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3625 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3646 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3659 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3683 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3706 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3719 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3731 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3747 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3764 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3780 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3800 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3816 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3835 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3853 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3865 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3878 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3898 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3911 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3915 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.3934 	DEBUG 	Upload of Texture Font fontname complete
+18.3963 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2EA90>
+18.3966 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2EA90>
+18.3981 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2EA90>
+18.3997 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002049AA2EA90>
+18.4066 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.4087 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.4107 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.4112 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.4124 	DEBUG 	Upload of Texture Font fontname complete
+18.4167 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+18.4167 	EXP 	window1: recordFrameIntervals = False
+18.5995 	EXP 	window1: recordFrameIntervals = True
+18.7844 	EXP 	Screen (0) actual frame rate measured at 59.50Hz
+18.7844 	EXP 	window1: recordFrameIntervals = False
+18.7847 	EXP 	window1: mouseVisible = False
+18.7856 	EXP 	window1: mouseVisible = False
+18.7860 	EXP 	window1: mouseVisible = False
+18.7884 	EXP 	window1: mouseVisible = False
+18.7905 	EXP 	window1: mouseVisible = False
+18.8039 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8067 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8099 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8133 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8163 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8189 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8207 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8228 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8249 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8268 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.8273 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.8288 	DEBUG 	Upload of Texture Font fontname complete
+18.8315 	EXP 	window1: mouseVisible = False
+18.8317 	EXP 	window1: mouseVisible = False
+18.8325 	EXP 	window1: mouseVisible = False
+18.8331 	EXP 	window1: mouseVisible = False
+18.9229 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+24.1134 	INFO 	keyboard.Keyboard is using iohub backend.
+24.1135 	INFO 	keyboard.Keyboard is using iohub backend.
+24.1136 	EXP 	solo_project: status = STARTED
+24.1140 	EXP 	window1: mouseVisible = False
+24.2476 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+24.2478 	EXP 	window1: mouseVisible = False
+24.2508 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+24.2510 	EXP 	window1: mouseVisible = False
+24.2524 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+24.2525 	EXP 	window1: mouseVisible = False
+24.2604 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0287 	EXP 	text_2: autoDraw = True
+10.0478 	DEBUG 	Read excel file with openpyxl: list_2_vvrl.xlsx
+10.0518 	EXP 	Imported list_2_vvrl.xlsx as conditions, 40 conditions, 3 params
+10.0531 	EXP 	Created sequence: random, trialTypes=40, nReps=1, seed=None
+10.0534 	EXP 	New trial (rep=0, index=0): {'stimulus': 'grateful  ', 'condition': 'control', 'corr_resp': 'y'}
+10.0717 	EXP 	text_2: autoDraw = False
+10.0717 	EXP 	text: height = 0.05
+10.0717 	EXP 	text: height = 0.05
+10.0717 	EXP 	text: height = 0.05
+10.0717 	EXP 	text: text = 'grateful  '
+10.0717 	EXP 	fixation: autoDraw = True
+10.5247 	INFO 	Keyboard events cleared
+10.5241 	EXP 	text: autoDraw = True
+10.5738 	EXP 	fixation: autoDraw = False
+11.7761 	EXP 	New trial (rep=0, index=1): {'stimulus': 'acidomy', 'condition': 'vvrl', 'corr_resp': 'n'}
+11.7822 	DATA 	Keypress: y
+11.7901 	EXP 	fixation: autoDraw = False
+11.7901 	EXP 	text: autoDraw = False
+11.7901 	EXP 	text: height = 0.05
+11.7901 	EXP 	text: height = 0.05
+11.7901 	EXP 	text: height = 0.05
+11.7901 	EXP 	text: text = 'acidomy'
+11.7901 	EXP 	fixation: autoDraw = True
+12.2932 	INFO 	Keyboard events cleared
+12.2926 	EXP 	fixation: autoDraw = False
+12.2926 	EXP 	text: autoDraw = True
+12.8692 	EXP 	New trial (rep=0, index=2): {'stimulus': 'editor  ', 'condition': 'control', 'corr_resp': 'y'}
+12.8770 	DATA 	Keypress: n
+12.8914 	EXP 	fixation: autoDraw = False
+12.8914 	EXP 	text: autoDraw = False
+12.8914 	EXP 	text: height = 0.05
+12.8914 	EXP 	text: height = 0.05
+12.8914 	EXP 	text: height = 0.05
+12.8914 	EXP 	text: text = 'editor  '
+12.8914 	EXP 	fixation: autoDraw = True
+13.3931 	INFO 	Keyboard events cleared
+13.3925 	EXP 	text: autoDraw = True
+13.4106 	EXP 	fixation: autoDraw = False
+13.8879 	EXP 	New trial (rep=0, index=3): {'stimulus': 'moderate  ', 'condition': 'control', 'corr_resp': 'y'}
+13.8954 	DATA 	Keypress: y
+13.9096 	EXP 	fixation: autoDraw = False
+13.9096 	EXP 	text: autoDraw = False
+13.9096 	EXP 	text: height = 0.05
+13.9096 	EXP 	text: height = 0.05
+13.9096 	EXP 	text: height = 0.05
+13.9096 	EXP 	text: text = 'moderate  '
+13.9096 	EXP 	fixation: autoDraw = True
+14.4125 	INFO 	Keyboard events cleared
+14.4119 	EXP 	fixation: autoDraw = False
+14.4119 	EXP 	text: autoDraw = True
+15.0703 	EXP 	New trial (rep=0, index=4): {'stimulus': 'cafeteria  ', 'condition': 'control', 'corr_resp': 'y'}
+15.0786 	DATA 	Keypress: y
+15.0939 	EXP 	fixation: autoDraw = False
+15.0939 	EXP 	text: autoDraw = False
+15.0939 	EXP 	text: height = 0.05
+15.0939 	EXP 	text: height = 0.05
+15.0939 	EXP 	text: height = 0.05
+15.0939 	EXP 	text: text = 'cafeteria  '
+15.0939 	EXP 	fixation: autoDraw = True
+15.5951 	INFO 	Keyboard events cleared
+15.5946 	EXP 	text: autoDraw = True
+15.6137 	EXP 	fixation: autoDraw = False
+17.4902 	EXP 	New trial (rep=0, index=5): {'stimulus': 'opuritor', 'condition': 'vvrl', 'corr_resp': 'n'}
+17.4982 	DATA 	Keypress: n
+17.5133 	EXP 	fixation: autoDraw = False
+17.5133 	EXP 	text: autoDraw = False
+17.5133 	EXP 	text: height = 0.05
+17.5133 	EXP 	text: height = 0.05
+17.5133 	EXP 	text: height = 0.05
+17.5133 	EXP 	text: text = 'opuritor'
+17.5133 	EXP 	fixation: autoDraw = True
+18.0143 	INFO 	Keyboard events cleared
+18.0137 	EXP 	text: autoDraw = True
+18.0324 	EXP 	fixation: autoDraw = False
+18.6571 	EXP 	New trial (rep=0, index=6): {'stimulus': 'basude', 'condition': 'vvrl', 'corr_resp': 'n'}
+18.6660 	DATA 	Keypress: y
+18.6815 	EXP 	fixation: autoDraw = False
+18.6815 	EXP 	text: autoDraw = False
+18.6815 	EXP 	text: height = 0.05
+18.6815 	EXP 	text: height = 0.05
+18.6815 	EXP 	text: height = 0.05
+18.6815 	EXP 	text: text = 'basude'
+18.6815 	EXP 	fixation: autoDraw = True
+19.1848 	INFO 	Keyboard events cleared
+19.1842 	EXP 	fixation: autoDraw = False
+19.1842 	EXP 	text: autoDraw = True
+19.9251 	EXP 	New trial (rep=0, index=7): {'stimulus': 'eluberate', 'condition': 'vvrl', 'corr_resp': 'n'}
+19.9330 	DATA 	Keypress: n
+19.9493 	EXP 	fixation: autoDraw = False
+19.9493 	EXP 	text: autoDraw = False
+19.9493 	EXP 	text: height = 0.05
+19.9493 	EXP 	text: height = 0.05
+19.9493 	EXP 	text: height = 0.05
+19.9493 	EXP 	text: text = 'eluberate'
+19.9493 	EXP 	fixation: autoDraw = True
+20.4529 	INFO 	Keyboard events cleared
+20.4523 	EXP 	fixation: autoDraw = False
+20.4523 	EXP 	text: autoDraw = True
+21.4292 	EXP 	New trial (rep=0, index=8): {'stimulus': 'capotel', 'condition': 'vvrl', 'corr_resp': 'n'}
+21.4370 	DATA 	Keypress: n
+21.4509 	EXP 	fixation: autoDraw = False
+21.4509 	EXP 	text: autoDraw = False
+21.4509 	EXP 	text: height = 0.05
+21.4509 	EXP 	text: height = 0.05
+21.4509 	EXP 	text: height = 0.05
+21.4509 	EXP 	text: text = 'capotel'
+21.4509 	EXP 	fixation: autoDraw = True
+21.9523 	INFO 	Keyboard events cleared
+21.9516 	EXP 	text: autoDraw = True
+21.9702 	EXP 	fixation: autoDraw = False
+22.5801 	EXP 	New trial (rep=0, index=9): {'stimulus': 'modurite', 'condition': 'vvrl', 'corr_resp': 'n'}
+22.5872 	DATA 	Keypress: n
+22.6020 	EXP 	fixation: autoDraw = False
+22.6020 	EXP 	text: autoDraw = False
+22.6020 	EXP 	text: height = 0.05
+22.6020 	EXP 	text: height = 0.05
+22.6020 	EXP 	text: height = 0.05
+22.6020 	EXP 	text: text = 'modurite'
+22.6020 	EXP 	fixation: autoDraw = True
+23.1059 	INFO 	Keyboard events cleared
+23.1053 	EXP 	fixation: autoDraw = False
+23.1053 	EXP 	text: autoDraw = True
+23.6816 	EXP 	New trial (rep=0, index=10): {'stimulus': 'capecoty', 'condition': 'vvrl', 'corr_resp': 'n'}
+23.6885 	DATA 	Keypress: n
+23.7032 	EXP 	fixation: autoDraw = False
+23.7032 	EXP 	text: autoDraw = False
+23.7032 	EXP 	text: height = 0.05
+23.7032 	EXP 	text: height = 0.05
+23.7032 	EXP 	text: height = 0.05
+23.7032 	EXP 	text: text = 'capecoty'
+23.7032 	EXP 	fixation: autoDraw = True
+24.2049 	INFO 	Keyboard events cleared
+24.2041 	EXP 	text: autoDraw = True
+24.2229 	EXP 	fixation: autoDraw = False
+24.7806 	EXP 	New trial (rep=0, index=11): {'stimulus': 'animal  ', 'condition': 'control', 'corr_resp': 'y'}
+24.7884 	DATA 	Keypress: n
+24.8045 	EXP 	fixation: autoDraw = False
+24.8045 	EXP 	text: autoDraw = False
+24.8045 	EXP 	text: height = 0.05
+24.8045 	EXP 	text: height = 0.05
+24.8045 	EXP 	text: height = 0.05
+24.8045 	EXP 	text: text = 'animal  '
+24.8045 	EXP 	fixation: autoDraw = True
+25.3060 	INFO 	Keyboard events cleared
+25.3054 	EXP 	text: autoDraw = True
+25.3234 	EXP 	fixation: autoDraw = False
+26.0006 	EXP 	New trial (rep=0, index=12): {'stimulus': 'regular  ', 'condition': 'control', 'corr_resp': 'y'}
+26.0086 	DATA 	Keypress: y
+26.0224 	EXP 	fixation: autoDraw = False
+26.0224 	EXP 	text: autoDraw = False
+26.0224 	EXP 	text: height = 0.05
+26.0224 	EXP 	text: height = 0.05
+26.0224 	EXP 	text: height = 0.05
+26.0224 	EXP 	text: text = 'regular  '
+26.0224 	EXP 	fixation: autoDraw = True
+26.5256 	INFO 	Keyboard events cleared
+26.5250 	EXP 	fixation: autoDraw = False
+26.5250 	EXP 	text: autoDraw = True
+27.2357 	EXP 	New trial (rep=0, index=13): {'stimulus': 'academy  ', 'condition': 'control', 'corr_resp': 'y'}
+27.2442 	DATA 	Keypress: y
+27.2571 	EXP 	fixation: autoDraw = False
+27.2571 	EXP 	text: autoDraw = False
+27.2571 	EXP 	text: height = 0.05
+27.2571 	EXP 	text: height = 0.05
+27.2571 	EXP 	text: height = 0.05
+27.2571 	EXP 	text: text = 'academy  '
+27.2571 	EXP 	fixation: autoDraw = True
+27.7584 	INFO 	Keyboard events cleared
+27.7578 	EXP 	text: autoDraw = True
+27.7763 	EXP 	fixation: autoDraw = False
+28.4512 	EXP 	New trial (rep=0, index=14): {'stimulus': 'regolir', 'condition': 'vvrl', 'corr_resp': 'n'}
+28.4588 	DATA 	Keypress: y
+28.4752 	EXP 	fixation: autoDraw = False
+28.4752 	EXP 	text: autoDraw = False
+28.4752 	EXP 	text: height = 0.05
+28.4752 	EXP 	text: height = 0.05
+28.4752 	EXP 	text: height = 0.05
+28.4752 	EXP 	text: text = 'regolir'
+28.4752 	EXP 	fixation: autoDraw = True
+28.9766 	INFO 	Keyboard events cleared
+28.9759 	EXP 	text: autoDraw = True
+28.9945 	EXP 	fixation: autoDraw = False
+29.5524 	EXP 	New trial (rep=0, index=15): {'stimulus': 'resadunt', 'condition': 'vvrl', 'corr_resp': 'n'}
+29.5602 	DATA 	Keypress: n
+29.5763 	EXP 	fixation: autoDraw = False
+29.5763 	EXP 	text: autoDraw = False
+29.5763 	EXP 	text: height = 0.05
+29.5763 	EXP 	text: height = 0.05
+29.5763 	EXP 	text: height = 0.05
+29.5763 	EXP 	text: text = 'resadunt'
+29.5763 	EXP 	fixation: autoDraw = True
+30.0777 	INFO 	Keyboard events cleared
+30.0771 	EXP 	text: autoDraw = True
+30.0953 	EXP 	fixation: autoDraw = False
+30.7204 	EXP 	New trial (rep=0, index=16): {'stimulus': 'camera  ', 'condition': 'control', 'corr_resp': 'y'}
+30.7296 	DATA 	Keypress: n
+30.7445 	EXP 	fixation: autoDraw = False
+30.7445 	EXP 	text: autoDraw = False
+30.7445 	EXP 	text: height = 0.05
+30.7445 	EXP 	text: height = 0.05
+30.7445 	EXP 	text: height = 0.05
+30.7445 	EXP 	text: text = 'camera  '
+30.7445 	EXP 	fixation: autoDraw = True
+31.2304 	INFO 	Keyboard events cleared
+31.2298 	EXP 	text: autoDraw = True
+31.2616 	EXP 	fixation: autoDraw = False
+31.9584 	EXP 	New trial (rep=0, index=17): {'stimulus': 'capital  ', 'condition': 'control', 'corr_resp': 'y'}
+31.9677 	DATA 	Keypress: y
+31.9792 	EXP 	fixation: autoDraw = False
+31.9792 	EXP 	text: autoDraw = False
+31.9792 	EXP 	text: height = 0.05
+31.9792 	EXP 	text: height = 0.05
+31.9792 	EXP 	text: height = 0.05
+31.9792 	EXP 	text: text = 'capital  '
+31.9792 	EXP 	fixation: autoDraw = True
+32.4822 	INFO 	Keyboard events cleared
+32.4816 	EXP 	fixation: autoDraw = False
+32.4816 	EXP 	text: autoDraw = True
+32.9711 	EXP 	New trial (rep=0, index=18): {'stimulus': 'grotiful', 'condition': 'vvrl', 'corr_resp': 'n'}
+32.9758 	DATA 	Keypress: y
+32.9963 	EXP 	fixation: autoDraw = False
+32.9963 	EXP 	text: autoDraw = False
+32.9963 	EXP 	text: height = 0.05
+32.9963 	EXP 	text: height = 0.05
+32.9963 	EXP 	text: height = 0.05
+32.9963 	EXP 	text: text = 'grotiful'
+32.9963 	EXP 	fixation: autoDraw = True
+33.4834 	INFO 	Keyboard events cleared
+33.4828 	EXP 	text: autoDraw = True
+33.5140 	EXP 	fixation: autoDraw = False
+34.0775 	EXP 	New trial (rep=0, index=19): {'stimulus': 'cardinal  ', 'condition': 'control', 'corr_resp': 'y'}
+34.0854 	DATA 	Keypress: n
+34.0982 	EXP 	fixation: autoDraw = False
+34.0982 	EXP 	text: autoDraw = False
+34.0982 	EXP 	text: height = 0.05
+34.0982 	EXP 	text: height = 0.05
+34.0982 	EXP 	text: height = 0.05
+34.0982 	EXP 	text: text = 'cardinal  '
+34.0982 	EXP 	fixation: autoDraw = True
+34.6011 	INFO 	Keyboard events cleared
+34.6005 	EXP 	fixation: autoDraw = False
+34.6005 	EXP 	text: autoDraw = True
+35.2750 	EXP 	New trial (rep=0, index=20): {'stimulus': 'liborul', 'condition': 'vvrl', 'corr_resp': 'n'}
+35.2829 	DATA 	Keypress: n
+35.2995 	EXP 	fixation: autoDraw = False
+35.2995 	EXP 	text: autoDraw = False
+35.2995 	EXP 	text: height = 0.05
+35.2995 	EXP 	text: height = 0.05
+35.2995 	EXP 	text: height = 0.05
+35.2995 	EXP 	text: text = 'liborul'
+35.2995 	EXP 	fixation: autoDraw = True
+35.7848 	INFO 	Keyboard events cleared
+35.7843 	EXP 	text: autoDraw = True
+35.8019 	EXP 	fixation: autoDraw = False
+36.7935 	EXP 	New trial (rep=0, index=21): {'stimulus': 'edatur', 'condition': 'vvrl', 'corr_resp': 'n'}
+36.8012 	DATA 	Keypress: n
+36.8176 	EXP 	fixation: autoDraw = False
+36.8176 	EXP 	text: autoDraw = False
+36.8176 	EXP 	text: height = 0.05
+36.8176 	EXP 	text: height = 0.05
+36.8176 	EXP 	text: height = 0.05
+36.8176 	EXP 	text: text = 'edatur'
+36.8176 	EXP 	fixation: autoDraw = True
+37.3214 	INFO 	Keyboard events cleared
+37.3208 	EXP 	fixation: autoDraw = False
+37.3208 	EXP 	text: autoDraw = True
+38.0127 	DATA 	Keypress: n
+38.0302 	EXP 	New trial (rep=0, index=22): {'stimulus': 'veteran  ', 'condition': 'control', 'corr_resp': 'y'}
+38.0514 	EXP 	fixation: autoDraw = False
+38.0514 	EXP 	text: autoDraw = False
+38.0514 	EXP 	text: height = 0.05
+38.0514 	EXP 	text: height = 0.05
+38.0514 	EXP 	text: height = 0.05
+38.0514 	EXP 	text: text = 'veteran  '
+38.0514 	EXP 	fixation: autoDraw = True
+38.5535 	INFO 	Keyboard events cleared
+38.5529 	EXP 	text: autoDraw = True
+38.5715 	EXP 	fixation: autoDraw = False
+40.0807 	EXP 	New trial (rep=0, index=23): {'stimulus': 'elaborate  ', 'condition': 'control', 'corr_resp': 'y'}
+40.0895 	DATA 	Keypress: y
+40.1045 	EXP 	fixation: autoDraw = False
+40.1045 	EXP 	text: autoDraw = False
+40.1045 	EXP 	text: height = 0.05
+40.1045 	EXP 	text: height = 0.05
+40.1045 	EXP 	text: height = 0.05
+40.1045 	EXP 	text: text = 'elaborate  '
+40.1045 	EXP 	fixation: autoDraw = True
+40.6060 	INFO 	Keyboard events cleared
+40.6054 	EXP 	text: autoDraw = True
+40.6234 	EXP 	fixation: autoDraw = False
+41.6825 	EXP 	New trial (rep=0, index=24): {'stimulus': 'beside  ', 'condition': 'control', 'corr_resp': 'y'}
+41.6903 	DATA 	Keypress: y
+41.7064 	EXP 	fixation: autoDraw = False
+41.7064 	EXP 	text: autoDraw = False
+41.7064 	EXP 	text: height = 0.05
+41.7064 	EXP 	text: height = 0.05
+41.7064 	EXP 	text: height = 0.05
+41.7064 	EXP 	text: text = 'beside  '
+41.7064 	EXP 	fixation: autoDraw = True
+42.2079 	INFO 	Keyboard events cleared
+42.2072 	EXP 	text: autoDraw = True
+42.2261 	EXP 	fixation: autoDraw = False
+42.8669 	EXP 	New trial (rep=0, index=25): {'stimulus': 'cerdenal', 'condition': 'vvrl', 'corr_resp': 'n'}
+42.8732 	DATA 	Keypress: y
+42.8905 	EXP 	fixation: autoDraw = False
+42.8905 	EXP 	text: autoDraw = False
+42.8905 	EXP 	text: height = 0.05
+42.8905 	EXP 	text: height = 0.05
+42.8905 	EXP 	text: height = 0.05
+42.8905 	EXP 	text: text = 'cerdenal'
+42.8905 	EXP 	fixation: autoDraw = True
+43.3925 	INFO 	Keyboard events cleared
+43.3919 	EXP 	text: autoDraw = True
+43.4099 	EXP 	fixation: autoDraw = False
+44.0517 	EXP 	New trial (rep=0, index=26): {'stimulus': 'capacity  ', 'condition': 'control', 'corr_resp': 'y'}
+44.0598 	DATA 	Keypress: n
+44.0757 	EXP 	fixation: autoDraw = False
+44.0757 	EXP 	text: autoDraw = False
+44.0757 	EXP 	text: height = 0.05
+44.0757 	EXP 	text: height = 0.05
+44.0757 	EXP 	text: height = 0.05
+44.0757 	EXP 	text: text = 'capacity  '
+44.0757 	EXP 	fixation: autoDraw = True
+44.5769 	INFO 	Keyboard events cleared
+44.5763 	EXP 	text: autoDraw = True
+44.5943 	EXP 	fixation: autoDraw = False
+45.2528 	EXP 	New trial (rep=0, index=27): {'stimulus': 'sentiment  ', 'condition': 'control', 'corr_resp': 'y'}
+45.2616 	DATA 	Keypress: y
+45.2769 	EXP 	fixation: autoDraw = False
+45.2769 	EXP 	text: autoDraw = False
+45.2769 	EXP 	text: height = 0.05
+45.2769 	EXP 	text: height = 0.05
+45.2769 	EXP 	text: height = 0.05
+45.2769 	EXP 	text: text = 'sentiment  '
+45.2769 	EXP 	fixation: autoDraw = True
+45.7634 	INFO 	Keyboard events cleared
+45.7628 	EXP 	text: autoDraw = True
+45.7941 	EXP 	fixation: autoDraw = False
+47.0059 	DATA 	Keypress: y
+47.0232 	EXP 	New trial (rep=0, index=28): {'stimulus': 'cifuteria', 'condition': 'vvrl', 'corr_resp': 'n'}
+47.0466 	EXP 	fixation: autoDraw = False
+47.0466 	EXP 	text: autoDraw = False
+47.0466 	EXP 	text: height = 0.05
+47.0466 	EXP 	text: height = 0.05
+47.0466 	EXP 	text: height = 0.05
+47.0466 	EXP 	text: text = 'cifuteria'
+47.0466 	EXP 	fixation: autoDraw = True
+47.5482 	INFO 	Keyboard events cleared
+47.5476 	EXP 	fixation: autoDraw = False
+47.5476 	EXP 	text: autoDraw = True
+48.1728 	EXP 	New trial (rep=0, index=29): {'stimulus': 'liberal  ', 'condition': 'control', 'corr_resp': 'y'}
+48.1813 	DATA 	Keypress: n
+48.1960 	EXP 	fixation: autoDraw = False
+48.1960 	EXP 	text: autoDraw = False
+48.1960 	EXP 	text: height = 0.05
+48.1960 	EXP 	text: height = 0.05
+48.1960 	EXP 	text: height = 0.05
+48.1960 	EXP 	text: text = 'liberal  '
+48.1960 	EXP 	fixation: autoDraw = True
+48.6996 	INFO 	Keyboard events cleared
+48.6990 	EXP 	fixation: autoDraw = False
+48.6990 	EXP 	text: autoDraw = True
+49.3095 	EXP 	New trial (rep=0, index=30): {'stimulus': 'cimura', 'condition': 'vvrl', 'corr_resp': 'n'}
+49.3177 	DATA 	Keypress: y
+49.3315 	EXP 	fixation: autoDraw = False
+49.3315 	EXP 	text: autoDraw = False
+49.3315 	EXP 	text: height = 0.05
+49.3315 	EXP 	text: height = 0.05
+49.3315 	EXP 	text: height = 0.05
+49.3315 	EXP 	text: text = 'cimura'
+49.3315 	EXP 	fixation: autoDraw = True
+49.8184 	INFO 	Keyboard events cleared
+49.8179 	EXP 	text: autoDraw = True
+49.8346 	EXP 	fixation: autoDraw = False
+50.3918 	EXP 	New trial (rep=0, index=31): {'stimulus': 'veturin', 'condition': 'vvrl', 'corr_resp': 'n'}
+50.4008 	DATA 	Keypress: n
+50.4159 	EXP 	fixation: autoDraw = False
+50.4159 	EXP 	text: autoDraw = False
+50.4159 	EXP 	text: height = 0.05
+50.4159 	EXP 	text: height = 0.05
+50.4159 	EXP 	text: height = 0.05
+50.4159 	EXP 	text: text = 'veturin'
+50.4159 	EXP 	fixation: autoDraw = True
+50.9175 	INFO 	Keyboard events cleared
+50.9167 	EXP 	text: autoDraw = True
+50.9357 	EXP 	fixation: autoDraw = False
+51.5600 	EXP 	New trial (rep=0, index=32): {'stimulus': 'benefit  ', 'condition': 'control', 'corr_resp': 'y'}
+51.5678 	DATA 	Keypress: n
+51.5838 	EXP 	fixation: autoDraw = False
+51.5838 	EXP 	text: autoDraw = False
+51.5838 	EXP 	text: height = 0.05
+51.5838 	EXP 	text: height = 0.05
+51.5838 	EXP 	text: height = 0.05
+51.5838 	EXP 	text: text = 'benefit  '
+51.5838 	EXP 	fixation: autoDraw = True
+52.0849 	INFO 	Keyboard events cleared
+52.0843 	EXP 	text: autoDraw = True
+52.1025 	EXP 	fixation: autoDraw = False
+52.8281 	EXP 	New trial (rep=0, index=33): {'stimulus': 'resident  ', 'condition': 'control', 'corr_resp': 'y'}
+52.8364 	DATA 	Keypress: y
+52.8518 	EXP 	fixation: autoDraw = False
+52.8518 	EXP 	text: autoDraw = False
+52.8518 	EXP 	text: height = 0.05
+52.8518 	EXP 	text: height = 0.05
+52.8518 	EXP 	text: height = 0.05
+52.8518 	EXP 	text: text = 'resident  '
+52.8518 	EXP 	fixation: autoDraw = True
+53.3531 	INFO 	Keyboard events cleared
+53.3525 	EXP 	text: autoDraw = True
+53.3710 	EXP 	fixation: autoDraw = False
+53.8641 	EXP 	New trial (rep=0, index=34): {'stimulus': 'porint', 'condition': 'vvrl', 'corr_resp': 'n'}
+53.8731 	DATA 	Keypress: y
+53.8861 	EXP 	fixation: autoDraw = False
+53.8861 	EXP 	text: autoDraw = False
+53.8861 	EXP 	text: height = 0.05
+53.8861 	EXP 	text: height = 0.05
+53.8861 	EXP 	text: height = 0.05
+53.8861 	EXP 	text: text = 'porint'
+53.8861 	EXP 	fixation: autoDraw = True
+54.3877 	INFO 	Keyboard events cleared
+54.3870 	EXP 	text: autoDraw = True
+54.4055 	EXP 	fixation: autoDraw = False
+54.9991 	EXP 	New trial (rep=0, index=35): {'stimulus': 'anemol', 'condition': 'vvrl', 'corr_resp': 'n'}
+55.0068 	DATA 	Keypress: n
+55.0207 	EXP 	fixation: autoDraw = False
+55.0207 	EXP 	text: autoDraw = False
+55.0207 	EXP 	text: height = 0.05
+55.0207 	EXP 	text: height = 0.05
+55.0207 	EXP 	text: height = 0.05
+55.0207 	EXP 	text: text = 'anemol'
+55.0207 	EXP 	fixation: autoDraw = True
+55.5222 	INFO 	Keyboard events cleared
+55.5215 	EXP 	text: autoDraw = True
+55.5401 	EXP 	fixation: autoDraw = False
+56.1317 	EXP 	New trial (rep=0, index=36): {'stimulus': 'sontament', 'condition': 'vvrl', 'corr_resp': 'n'}
+56.1402 	DATA 	Keypress: n
+56.1554 	EXP 	fixation: autoDraw = False
+56.1554 	EXP 	text: autoDraw = False
+56.1554 	EXP 	text: height = 0.05
+56.1554 	EXP 	text: height = 0.05
+56.1554 	EXP 	text: height = 0.05
+56.1554 	EXP 	text: text = 'sontament'
+56.1554 	EXP 	fixation: autoDraw = True
+56.6567 	INFO 	Keyboard events cleared
+56.6561 	EXP 	text: autoDraw = True
+56.6745 	EXP 	fixation: autoDraw = False
+57.3331 	EXP 	New trial (rep=0, index=37): {'stimulus': 'parent  ', 'condition': 'control', 'corr_resp': 'y'}
+57.3420 	DATA 	Keypress: n
+57.3568 	EXP 	fixation: autoDraw = False
+57.3568 	EXP 	text: autoDraw = False
+57.3568 	EXP 	text: height = 0.05
+57.3568 	EXP 	text: height = 0.05
+57.3568 	EXP 	text: height = 0.05
+57.3568 	EXP 	text: text = 'parent  '
+57.3568 	EXP 	fixation: autoDraw = True
+57.8430 	INFO 	Keyboard events cleared
+57.8424 	EXP 	text: autoDraw = True
+57.8740 	EXP 	fixation: autoDraw = False
+58.6210 	DATA 	Keypress: y
+58.6509 	EXP 	New trial (rep=0, index=38): {'stimulus': 'operator  ', 'condition': 'control', 'corr_resp': 'y'}
+58.6748 	EXP 	fixation: autoDraw = False
+58.6748 	EXP 	text: autoDraw = False
+58.6748 	EXP 	text: height = 0.05
+58.6748 	EXP 	text: height = 0.05
+58.6748 	EXP 	text: height = 0.05
+58.6748 	EXP 	text: text = 'operator  '
+58.6748 	EXP 	fixation: autoDraw = True
+59.1760 	INFO 	Keyboard events cleared
+59.1754 	EXP 	text: autoDraw = True
+59.1940 	EXP 	fixation: autoDraw = False
+60.2190 	EXP 	New trial (rep=0, index=39): {'stimulus': 'benafot', 'condition': 'vvrl', 'corr_resp': 'n'}
+60.2266 	DATA 	Keypress: y
+60.2432 	EXP 	fixation: autoDraw = False
+60.2432 	EXP 	text: autoDraw = False
+60.2432 	EXP 	text: height = 0.05
+60.2432 	EXP 	text: height = 0.05
+60.2432 	EXP 	text: height = 0.05
+60.2432 	EXP 	text: text = 'benafot'
+60.2432 	EXP 	fixation: autoDraw = True
+60.7447 	INFO 	Keyboard events cleared
+60.7441 	EXP 	text: autoDraw = True
+60.7620 	EXP 	fixation: autoDraw = False
+61.4581 	DATA 	Keypress: n
+61.4780 	EXP 	fixation: autoDraw = False
+61.4780 	EXP 	text: autoDraw = False
+61.4780 	EXP 	text_3: autoDraw = True
+66.4688 	EXP 	text_3: autoDraw = False
+66.4754 	EXP 	solo_project: status = STOPPED
+66.4946 	INFO 	saved data to 'C:\\Users\\ishas\\OneDrive\\Desktop\\Lab in Psych\\solo project\\data/aakash_solo_project_2024-12-02_19h36.45.189.csv'
+66.4964 	INFO 	saved data to C:\Users\ishas\OneDrive\Desktop\Lab in Psych\solo project\data/aakash_solo_project_2024-12-02_19h36.45.189.psydat
+66.5612 	EXP 	window1: mouseVisible = True
+66.9070 	DEBUG 	Saving data for solo_project ExperimentHandler
